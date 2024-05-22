@@ -1,0 +1,131 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Luxury Beachfront Villa",
+      "segment_name": "Beachfront Properties",
+      "description": "Exquisite beachfront villa with panoramic ocean views, featuring opulent interiors and resort-style amenities.",
+      "price": "$5,000,000",
+      "status": "sale",
+      "area": "6,000 sq ft",
+      "location": "Malibu, California",
+      "facilities": [
+        "Private beach access",
+        "Infinity pool",
+        "Spa",
+        "Gourmet kitchen"
+      ],
+      "image": "https://i.ibb.co/vYXPm9R/5.jpg"
+    },
+    {
+      "id": 2,
+      "estate_title": "Hilltop Penthouse Retreat",
+      "segment_name": "Penthouse",
+      "description": "Luxurious penthouse with stunning city views, lavish interiors, and exclusive amenities.",
+      "price": "$10,000,000",
+      "status": "sale",
+      "area": "4,500 sq ft",
+      "location": "New York City, New York",
+      "facilities": [
+        "Private terrace",
+        "Sky lounge",
+        "Home automation system",
+        "Fitness center"
+      ],
+      "image": "https://i.ibb.co/G783DNT/6.jpg"
+    },
+    {
+      "id": 3,
+      "estate_title": "Private Island Paradise",
+      "segment_name": "Private Islands",
+      "description": "Exclusive private island retreat with multiple villas, pristine beaches, and unparalleled privacy.",
+      "price": "$15,000,000",
+      "status": "sale",
+      "area": "20 acres",
+      "location": "Caribbean",
+      "facilities": ["Helipad", "Yacht dock", "Spa complex", "Outdoor cinema"],
+      "image": "https://i.ibb.co/v16KcwG/1.jpg"
+    },
+    {
+      "id": 4,
+      "estate_title": "Luxury Ski Chalet",
+      "segment_name": "Resorts",
+      "description": "Luxurious ski chalet nestled in the mountains, featuring alpine-inspired design and world-class amenities.",
+      "price": "$3,500,000",
+      "status": "sale",
+      "area": "4,500 sq ft",
+      "location": "Aspen, Colorado",
+      "facilities": [
+        "Ski-in/ski-out access",
+        "Sauna",
+        "Game room",
+        "Outdoor hot tub"
+      ],
+      "image": "https://i.ibb.co/fkk8NGd/2.jpg"
+    },
+    {
+      "id": 5,
+      "estate_title": "Historic Manor House",
+      "segment_name": "Mansions",
+      "description": "Magnificent historic manor house meticulously restored to its former glory, offering refined elegance and modern amenities.",
+      "price": "$7,200,000",
+      "status": "sale",
+      "area": "8,000 sq ft",
+      "location": "England, UK",
+      "facilities": ["Formal gardens", "Library", "Ballroom", "Indoor pool"],
+      "image": "https://i.ibb.co/9cthwkP/3.jpg"
+    },
+    {
+      "id": 6,
+      "estate_title": "Luxury Waterfront Estate",
+      "segment_name": "Villas",
+      "description": "Elegant waterfront estate with breathtaking views, lush landscaping, and luxurious amenities throughout.",
+      "price": "$12,000,000",
+      "status": "sale",
+      "area": "15,000 sq ft",
+      "location": "Miami Beach, Florida",
+      "facilities": [
+        "Private dock",
+        "Pool cabana",
+        "Wine cellar",
+        "Outdoor kitchen"
+      ],
+      "image": "https://i.ibb.co/74Zx5YV/4.jpg"
+    },
+    {
+      "id": 7,
+      "estate_title": "Oceanfront Mansion",
+      "segment_name": "Mansions",
+      "description": "Stunning oceanfront mansion with opulent interiors, expansive grounds, and unparalleled luxury.",
+      "price": "$20,000,000",
+      "status": "sale",
+      "area": "12,000 sq ft",
+      "location": "Santa Barbara, California",
+      "facilities": ["Infinity pool", "Tennis court", "Home theater", "Wine cellar"],
+      "image": "https://plus.unsplash.com/premium_photo-1675745329378-5573c360f69f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 8,
+      "estate_title": "Private Vineyard Estate",
+      "segment_name": "Villas",
+      "description": "Luxury estate nestled within a private vineyard, offering vineyard views, wine cellar, and exquisite craftsmanship.",
+      "price": "$9,500,000",
+      "status": "sale",
+      "area": "10 acres",
+      "location": "Napa Valley, California",
+      "facilities": ["Vineyard views", "Wine cellar", "Outdoor kitchen", "Guest house"],
+      "image": "https://images.unsplash.com/photo-1605352081508-2e09927ecfe3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 9,
+      "estate_title": "Ski-In/Ski-Out Chalet",
+      "segment_name": "Resorts",
+      "description": "Chic ski-in/ski-out chalet offering direct access to the slopes, luxurious interiors, and stunning mountain views.",
+      "price": "$6,800,000",
+      "status": "sale",
+      "area": "3,000 sq ft",
+      "location": "Courchevel, France",
+      "facilities": ["Ski-in/ski-out access", "Fireplace", "Sauna", "Terrace"],
+      "image": "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fEx1eHVyeSUyMFZpbGxhfGVufDB8MHwwfHx8MA%3D%3D"
+    }
+  ]
+  
